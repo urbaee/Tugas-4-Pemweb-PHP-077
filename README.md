@@ -11,5 +11,7 @@
     <p><strong>Mata Kuliah:</strong> Pemrograman Web - IF3028</p>
     <p><strong>Kelas:</strong> RA</p>
     <p><strong>Tugas 4 Pemrograman WEB RA - PHP Bagian 1</strong></p>
+    <img src="SSpage/form.png" alt="Form Page">
+    <img src="SSpage/result.png" alt="Result Page">
 </body>
 </html>
