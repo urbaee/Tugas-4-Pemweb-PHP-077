@@ -1,0 +1,7 @@
+Nama: Rahmat Aldi Nasda
+NIM: 122140077
+Tempat/Tanggal Lahir: Bandar Lampung, Agustus 2004
+Alamat: Rajabasa, Bandar Lampung
+Status: Mahasiswa
+Semester: 5
+Program Studi: Teknik Informatika
